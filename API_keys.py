@@ -1,0 +1,18 @@
+Bing_key='1sfVOulGbX3dIXQdNMyVqI-M6H-tC6j4hYkMIj-L80abVIn02wkLD-ybFSvrMRh3WkFEBR4B5IwUjPvKb1Xw6guei69uhfPu32ulLo57ObejpgBsdhV8U47CLFOo_JwLqvs3H3aDMA_pp_ndSP5JyRqCJhM6HjwbAuO1iwYcNy6hiY7uYG0lhHX4jHs87_G8vm7h3uc_bwboSZGIrST5tP_Zxd5jZhbuuGTpDOV1Dddg'
+Gemini_api_key='AIzaSyBfRu2wABWnE19ZO_R46-nkBKOhyg1Xxxs'
+HuggingFace_api='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'
+groq='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'
+groq2='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'
+cohere_api='g68lY7KGdkWiyFarIX1MTaiixBJXc00yyQxU05Cx'
+deepinfra='jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnaDoxMjg4MjM2NzQiLCJleHAiOjE3MTc1MDU0NjR9.H9uspHHkOSGE6SHutI-qTHiMaAqzPGKSVo3H-zOs_IQ'
+
+GoogleCustomSearch='AIzaSyCJnhIhFahPczDtZ7U21KPYpmSKfaDfFtw'
+cx='b7ceb8bf4fd5c493c'
+
+AI_model=''
+AI_Name='Jarvis'
+AI_Gender='Female' #Female/Male (Note-Jarvis is not other)
+Country='India'
+User_Name='Suyash'
+User_Gender='Male'
+# serp_api='135574a24d0c78b2a6908abeb05791e78856bfca8926c7c5238f36790ad11895'

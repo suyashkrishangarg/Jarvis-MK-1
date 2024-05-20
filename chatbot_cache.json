@@ -1,0 +1,4 @@
+{
+  "open insta": "```python\nimport webbrowser\nwebbrowser.open('https://www.instagram.com')```",
+  "can you now open instagram": "```python\nimport webbrowser\nwebbrowser.open('https://www.instagram.com/')```"
+}
